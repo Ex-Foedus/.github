@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![FoedusFlag](FoedusFlag.png)
+
 ### Quick Hits
 
 #### 😃 A short introduction:
