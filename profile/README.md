@@ -2,7 +2,7 @@
 
 #### Quick Hits
 
-😃 A short introduction 
+#### 😃 A short introduction 
 We're Ex Foedus (foe-eh-dus), The League! We're here make cool things that help people
 
 🌈 Contribution guidelines - For now, we don't have any projects in need of contribution but keep an eye out for when Nimbus gets rolling!
