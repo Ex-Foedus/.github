@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 ![FoedusFlag](profile/Foedus_Flag.jpg)
+<!-- How do I center the below text? -->
+<p align="Our self-created flag!">
+
 
 ### Quick Hits
 
