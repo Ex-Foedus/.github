@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![FoedusFlag](FoedusFlag.png)
+![FoedusFlag](Foedus_Flag.png)
 
 ### Quick Hits
 
