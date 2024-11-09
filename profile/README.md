@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Our self-created flag!
-![FoedusFlag](profile/Foedus_Flag.jpg)
+![FoedusFlag](./Foedus_Flag.jpg)
 Each color and element mean something important. We also took inspiration from the beautiful designs of Taiwan 🇹🇼 and Kurgyzstan's 🇰🇿 flags!
 
 ### Quick Hits
